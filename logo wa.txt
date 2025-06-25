@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Chat via WhatsApp</title>
+  <!-- Open Graph Meta Tags untuk Social Media Preview -->
+  <meta property="og:title" content="Chat via WhatsApp">
+  <meta property="og:description" content="Klik untuk chat dengan kami di WhatsApp!">
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
+  <meta property="og:url" content="https://example.com/whatsapp-link"> <!-- Ganti dengan link halaman ini -->
+  <meta property="og:type" content="website">
+  <!-- Untuk Twitter preview juga -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Chat via WhatsApp">
+  <meta name="twitter:description" content="Klik untuk chat dengan kami di WhatsApp!">
+  <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
+</head>
+<body>
+  <h1>Chat via WhatsApp</h1>
+  <a href="https://tpi.li/chatnow" target="_blank" rel="noopener">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" width="50" style="vertical-align:middle;">
+    Klik untuk chat dengan kami di WhatsApp!
+  </a>
+</body>
+</html>
